@@ -4,8 +4,8 @@
 This project leverages machine learning techniques to predict air quality levels using environmental and pollutant data. The objective is to build accurate, interpretable models that can assist in proactive environmental monitoring and public health safety.
 
 ## Author  
-**Name:** F. Mujahith
-**Register Number:** 410623243059
+**Name:** h. Mujahid Ahamed
+**Register Number:** 410623243058
 
 ## Table of Contents
 
